@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
